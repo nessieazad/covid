@@ -1,0 +1,146 @@
+.bg-img {
+    background-image: url(images/banner-bg.png);
+    background-repeat: no-repeat;
+    background: cover;
+    height: 100vh;
+    background-size: 100%;
+}
+
+.pr-200 {
+    padding-right: 950px;
+}
+
+.medcare-text {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.read-btn {
+    background-color: #a258ed;
+    border: none;
+    font-size: 18px;
+    color: white;
+
+}
+
+.read-btn:hover {
+    background-color: #537FE7;
+}
+
+.control_btn {
+    left: 50%;
+    /* transform: translateX(-50%); */
+}
+
+.black-line {
+    padding: 1px 3px;
+    background-color: black;
+}
+
+.color-changes {
+    color: black;
+    transition: 0.3s;
+}
+
+.color-changes:hover {
+    color: #6610f2;
+}
+
+.virus-btn {
+    background-color: #537FE7;
+    border: none;
+    font-size: 18px;
+    color: white;
+    transition: 0.3s;
+}
+
+.virus-btn:hover {
+    background-color: #a258ed;
+}
+
+.doctor-bg {
+    background-image: url(images/doctor-bg.png);
+    background-repeat: none;
+    height: 70vh;
+    background-size: cover;
+}
+
+.news-bg {
+    background-image: url(images/news-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.box-main {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #ffffff;
+    height: auto;
+    box-shadow: 0px 0px 8px 0px;
+    padding: 0px 20px 0px 20px;
+    margin-bottom: 20px;
+}
+
+.less-bttn {
+    color: black;
+    background-color: white;
+    padding: 20px 25px;
+    border: 5px solid;
+    transition: 0.3s;
+}
+
+.less-bttn:hover {
+    color: white;
+    background-color: #7d56c9;
+}
+
+.greater-bttn:hover {
+    color: white;
+    background-color: #7d56c9;
+}
+
+.greater-bttn {
+    color: black;
+    background-color: white;
+    padding: 20px 25px;
+    border: 5px solid;
+}
+
+.border-outline {
+    outline: none;
+}
+
+.subscribe-now {
+    background-color: #250d52;
+    border: none;
+    color: white;
+    transition: 0.3s;
+}
+
+.subscribe-now:hover {
+    background-color: #537FE7;
+}
+
+.hovered-word {
+    color: white;
+    transition: 0.3s;
+}
+
+.hovered-word:hover {
+    color: #537FE7;
+    transition: 0.3s;
+}
+
+.free-html {
+    color: #212529;
+    transition: 0.3s;
+}
+
+.free-html:hover {
+    color: #537FE7;
+}
+
+.news-img {
+    margin-top: -20px;
+}
